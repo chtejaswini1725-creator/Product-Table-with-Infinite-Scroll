@@ -14,12 +14,38 @@ https://product-table-with-infinite-scroll.vercel.app/
 - JavaScript
 - Intersection Observer API
 
-## Setup
+## Setup 
+Step 1: Create Project (Vite – preferred)
+```bash
+npm create vite@latest product-table -- --template react
+cd product-table
+```
+Step 2: Install the project dependencies
 ```bash
 npm install
+```
+Step 3: Running the Project  in development mode
+```bash
 npm run dev
 ```
 ## Approach
 - Used functional components and hooks
 - Separated infinite scroll logic into a custom hook
 - Managed editable state locally without mutating API data
+  
+**Development Approach**
+- Split UI and logic for maintainability
+- Used Intersection Observer for efficient infinite scrolling
+- Maintained immutability while editing product titles
+
+**Challenges**
+- Preventing repeated API calls
+- Correctly attaching observer to last row
+
+**Solutions**
+- Introduced loading flag
+- Used callback + custom hook abstraction
+----
+## License
+
+This project is licensed under the MIT License.
