@@ -1,5 +1,5 @@
 # Product Table with Infinite Scroll
-- Use  https://dummyjson.com/products?limit=10&skip=10 to fetch a list of products.You’ll receive an object with a products array containing product data.
+Use  https://dummyjson.com/products?limit=10&skip=10 to fetch a list of products.You’ll receive an object with a products array containing product data.
 
 ## Live Demo
 https://product-table-with-infinite-scroll.vercel.app/
