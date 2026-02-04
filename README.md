@@ -44,7 +44,7 @@ State is managed using React Hooks:
 - loading → prevents duplicate API calls during fetch
 State updates are handled immutably using setState callbacks to ensure predictable behavior.
 ## 5. API Integration
- The application uses the following API: https://dummyjson.com/products?limit=10&skip={value}. 
+ The application uses the following API: https://dummyjson.com/products?limit=10&skip={value}
  - Products are fetched in batches of 10
  - Pagination is handled using the skip parameter
  - Data is appended to the existing product list for infinite scrolling
