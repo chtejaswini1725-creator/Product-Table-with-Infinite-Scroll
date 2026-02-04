@@ -1,7 +1,7 @@
 # Product Table with Infinite Scroll
 
 ## Live Demo
-https://your-vercel-link.vercel.app
+https://product-table-with-infinite-scroll.vercel.app/
 
 ## Features
 - Fetches products from DummyJSON API
