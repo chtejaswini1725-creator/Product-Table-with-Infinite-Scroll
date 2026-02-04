@@ -1,4 +1,5 @@
-# Product Table with Infinite Scroll
+# React Product Table with Infinite Scroll
+
 ## 1. Overview
 This project is a simple React application built to display product data fetched from a public API. The goal was to demonstrate practical frontend skills such as API integration, state management, editable UI elements, and infinite scrolling using the Intersection Observer API.  The application fetches product data from the DummyJSON API and displays it in a table with editable product titles. Additional products are loaded automatically as the user scrolls down.
 ## 2. Tech Stack Used
