@@ -2,6 +2,9 @@
 
 ## 1. Overview
 This project is a simple React application built to display product data fetched from a public API. The goal was to demonstrate practical frontend skills such as API integration, state management, editable UI elements, and infinite scrolling using the Intersection Observer API.  The application fetches product data from the DummyJSON API and displays it in a table with editable product titles. Additional products are loaded automatically as the user scrolls down.
+- Use  https://dummyjson.com/products?limit=10&skip=10 to fetch a 
+list of products.You’ll receive an object with a products array containing 
+product data.
 ## 2. Tech Stack Used
 - React (Vite)
 - JavaScript (ES6+)
