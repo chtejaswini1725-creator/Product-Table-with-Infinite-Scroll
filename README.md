@@ -122,6 +122,8 @@ This assignment demonstrates my ability to:
 - Manage state effectively in React
 - Implement real-world UI features like infinite scrolling
 - Write clean, readable, and maintainable frontend code
+- Documentation File URL: https://docs.google.com/document/d/1GS2x1KauCyysVpMNdwWxWTS37N3GODmMPfkOVfD8Jcs/edit?usp=sharing
+- Loom Video: https://www.loom.com/share/a786b807f0b6476b8e6e451a976af753
 ----
 ## License
 
